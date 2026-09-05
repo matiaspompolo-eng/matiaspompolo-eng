@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="imagen.png" alt="FreeRTOS and STM32" width="700">
+</p>
 # 👋 Hi, I'm Matías Pómpolo
 
 ### Electronics Engineer | Embedded Systems Developer | Electronics & PCB Design
