@@ -1,3 +1,4 @@
+![Uploading ChatGPT Image 5 sept 2026, 04_42_28 p.m.png…]()
 # 👋 Hi, I'm Matías Pómpolo
 
 ### Electronics Engineer | Embedded Systems Developer | Electronics & PCB Design
