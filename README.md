@@ -40,6 +40,7 @@ communication protocols and Python-based development.
 ### Software
 - Python
 - PyQt5
+- SQL-MySQL
 - Git / GitHub
 
 ### Electronics
@@ -47,25 +48,9 @@ communication protocols and Python-based development.
 - Altium Designer
 - Embedded Hardware
 - Electronic Instrumentation
-
----
-
-## 📂 Featured Projects
-
-### 🔹 Embedded Learning
-Collection of experiments and projects related to embedded systems,
-microcontrollers and firmware development.
-
-### 🔹 FreeRTOS & STM32
-Learning projects focused on real-time operating systems,
-tasks, synchronization and peripheral management.
-
-### 🔹 PCB Design
-Personal projects related to electronic circuit and PCB design.
-
 ---
 
 ## 📫 Contact
 
-- LinkedIn: [My LinkedIn](TU-LINKEDIN)
-- Email: TU-EMAIL
+- LinkedIn: linkedin.com/in/matias-ezequiel-pómpolo-4ab881168
+- Email: matiaspompolo@gmail.com
